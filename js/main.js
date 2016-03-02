@@ -1,7 +1,7 @@
 $(document).ready(function() {
 	var navLink = $(".nav-item a");
 	$.ajax({
-		url: "../data/data.json",
+		url: "Carousel/data/data.json",
 		data: {
 			format: "json"
 		},
