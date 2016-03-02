@@ -1,0 +1,49 @@
+{
+"imgdb":{
+	"0":{
+	"src": "http://lorempixel.com/800/600/city/1",
+	"header": "header1",
+	"credit": "credit1"
+	},
+	"1":{
+	"src": "http://lorempixel.com/800/600/city/2",
+	"header": "header2",
+	"credit": "credit2"
+	},
+	"2":{
+	"src": "http://lorempixel.com/800/600/city/3",
+	"header": "header3",
+	"credit": "credit3"
+	},
+	"3":{
+	"src": "http://lorempixel.com/800/600/city/4",
+	"header": "header4",
+	"credit": "credit4"
+	},
+	"4":{
+	"src": "http://lorempixel.com/800/600/city/5",
+	"header": "header5",
+	"credit": "credit5"
+	},
+	"5":{
+	"src": "http://lorempixel.com/800/600/city/6",
+	"header": "header6",
+	"credit": "credit6"
+	},
+	"6":{
+	"src": "http://lorempixel.com/800/600/city/7",
+	"header": "header7",
+	"credit": "credit7"
+	},
+	"7":{
+	"src": "http://lorempixel.com/800/600/city/8",
+	"header": "header8",
+	"credit": "credit8"
+	},
+	"8":{
+	"src": "http://lorempixel.com/800/600/city/9",
+	"header": "header9",
+	"credit": "credit9"
+	}
+}
+}
